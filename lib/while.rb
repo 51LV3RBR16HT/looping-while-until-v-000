@@ -3,12 +3,6 @@ def using_while
 	
 	#your code here
 	
-
-  
-  end
-  
-  puts 
-  
 end
 
 
