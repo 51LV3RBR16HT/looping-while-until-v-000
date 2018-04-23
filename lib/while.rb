@@ -7,7 +7,7 @@ def using_while
 	loop do
 	  counter += 1 
 	  puts "Wingardium Leviosa"
-	if counter >=7
+	if counter >=10
 end
 
 
